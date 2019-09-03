@@ -1,0 +1,15 @@
+import { compute } from ’./compute’ ;
+describe ( ’compute’, () => { // suite
+     it (’shouldreturn 0 if input is negative’, () => {
+          constresult = compute (−1);
+          expect (result).toBe(0);
+     })
+     it (’should increment if input is positive 
+
+c o n s t r e s u l t = compute ( 1 ) ;
+e x p e c t ( r e s u l t ) . toBe ( 2 ) ;
+})
+
+p o s i t i v e ’ , ( ) = > {
+})
+ 
